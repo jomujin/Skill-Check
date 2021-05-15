@@ -3,7 +3,7 @@ Programmers Skill Check
 
 Num	| Level	| Group	| Title	| Code(Python3)
 ----|  ----| ----| ----| ----| 
-[64061](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | 2019 카카오 개발자 겨울 인턴십 | 크레인 인형뽑기 게임
+[64061](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | 2019 카카오 개발자 겨울 인턴십 | 크레인 인형뽑기 게임 | [View Code](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level1/SC_level1_12901.py)
 [12903](https://programmers.co.kr/learn/courses/30/lessons/12903) | 1 | 연습문제 | 가운데 글자 가져오기
 [68935](https://programmers.co.kr/learn/courses/30/lessons/68935) | 1 | 월간 코드 챌린지 시즌1 | 3진법 뒤집기
 [12906](https://programmers.co.kr/learn/courses/30/lessons/12906) | 1 | 연습문제 | 같은 숫자는 싫어
