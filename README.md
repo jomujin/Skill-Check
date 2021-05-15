@@ -51,9 +51,7 @@ Num	| Level	| Group	| Title	| Code(Python3)
 [49993](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2 | Summer/Winter Coding(~2018) | 스킬트리 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level2/SC_level2_49993.py)
 [60058](https://programmers.co.kr/learn/courses/30/lessons/60058) | 2 | 2020 KAKAO BLIND RECRUITMENT | 괄호 변환 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level2/SC_level2_60058.py)
 [62048](https://programmers.co.kr/learn/courses/30/lessons/62048) | 2 | Summer/Winter Coding(~2019) | 멀쩡한 사각형 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level2/SC_level2_62048.py)
-
-
+[42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | 3 | 힙(Heap) | 디스크 컨트롤러 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level3/SC_level3_42627.py) 
 [42628](https://programmers.co.kr/learn/courses/30/lessons/42628) | 3 | 힙(Heap) | 이중우선순위큐 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level3/SC_level3_42628.py)
-[42627](https://programmers.co.kr/learn/courses/30/lessons/42627) | 3 | 힙(Heap) | 디스크 컨트롤러
-[43105](https://programmers.co.kr/learn/courses/30/lessons/43105) | 3 | 동적계획법(Dynamic Programming) | 정수 삼각형
-[42895](https://programmers.co.kr/learn/courses/30/lessons/42895) | 3 | 동적계획법(Dynamic Programming) | N으로 표현
+[42895](https://programmers.co.kr/learn/courses/30/lessons/42895) | 3 | 동적계획법(Dynamic Programming) | N으로 표현 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level3/SC_level3_42895.py)
+[43105](https://programmers.co.kr/learn/courses/30/lessons/43105) | 3 | 동적계획법(Dynamic Programming) | 정수 삼각형 | [View](https://github.com/jomujin/Skill-Check/blob/main/PROGRAMMERS_SKILLCHECK/SC_level3/SC_level3_43105.py)
